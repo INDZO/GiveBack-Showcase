@@ -8,6 +8,8 @@ Organizations publish opportunities and review applications. Volunteers discover
 
 ![GiveBack’s public landing page showing navigation for opportunities and organizations](assets/public-interface.jpg)
 
+[Public React source ↗](https://github.com/INDZO/GiveBack-Source) · The API is covered by this engineering case study.
+
 ## From an opportunity to verified hours
 
 | Volunteer | Organization |
