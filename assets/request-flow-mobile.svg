@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="357" viewBox="0 0 420 357" role="img" aria-label="GIVEBACK / REQUEST PATH">
+<rect x="1" y="1" width="418" height="355" rx="12" fill="#111a29" stroke="#384963"/>
+<circle cx="22" cy="23" r="4" fill="#c5a7ff"/><text x="36" y="28" fill="#c3cede" font-family="monospace" font-size="15">GIVEBACK / REQUEST PATH</text>
+<rect x="18" y="45" width="384" height="61" rx="7" fill="#1a273a" stroke="#465b76"/><text x="33" y="70" fill="#c5a7ff" font-family="monospace" font-size="15">01</text><text x="73" y="70" fill="#f1f5fa" font-family="sans-serif" font-size="20" font-weight="700">React</text><text x="73" y="91" fill="#c3cede" font-family="sans-serif" font-size="15">Volunteer / organization interface</text>
+<path d="M48 106v11m-4-4 4 4 4-4" fill="none" stroke="#c5a7ff" stroke-width="2"/>
+<rect x="18" y="121" width="384" height="61" rx="7" fill="#1a273a" stroke="#465b76"/><text x="33" y="146" fill="#c5a7ff" font-family="monospace" font-size="15">02</text><text x="73" y="146" fill="#f1f5fa" font-family="sans-serif" font-size="20" font-weight="700">ASP.NET Core</text><text x="73" y="167" fill="#c3cede" font-family="sans-serif" font-size="15">API controllers</text>
+<path d="M48 182v11m-4-4 4 4 4-4" fill="none" stroke="#c5a7ff" stroke-width="2"/>
+<rect x="18" y="197" width="384" height="61" rx="7" fill="#1a273a" stroke="#465b76"/><text x="33" y="222" fill="#c5a7ff" font-family="monospace" font-size="15">03</text><text x="73" y="222" fill="#f1f5fa" font-family="sans-serif" font-size="20" font-weight="700">Application</text><text x="73" y="243" fill="#c3cede" font-family="sans-serif" font-size="15">MediatR and domain</text>
+<path d="M48 258v11m-4-4 4 4 4-4" fill="none" stroke="#c5a7ff" stroke-width="2"/>
+<rect x="18" y="273" width="384" height="61" rx="7" fill="#1a273a" stroke="#465b76"/><text x="33" y="298" fill="#c5a7ff" font-family="monospace" font-size="15">04</text><text x="73" y="298" fill="#f1f5fa" font-family="sans-serif" font-size="20" font-weight="700">SQL Server</text><text x="73" y="319" fill="#c3cede" font-family="sans-serif" font-size="15">EF Core persistence</text>
+</svg>

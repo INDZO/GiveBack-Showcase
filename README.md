@@ -17,7 +17,10 @@ Organizations publish opportunities and review applications. Volunteers discover
 
 ## Engineering
 
-![GiveBack request flow from React through the ASP.NET Core API and application handlers to EF Core and SQL Server](assets/request-flow.svg)
+<picture>
+  <source media="(max-width: 560px)" srcset="assets/request-flow-mobile.svg">
+  <img src="assets/request-flow.svg" width="920" alt="GiveBack request flow from React through the ASP.NET Core API and application handlers to EF Core and SQL Server">
+</picture>
 
 - **React** handles the web interface. **ASP.NET Core** exposes the application’s API.
 - **Clean Architecture** separates the application, domain, and infrastructure layers. **MediatR** routes CQRS commands and queries to their handlers.
